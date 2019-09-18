@@ -1,0 +1,7 @@
+On Manjaro:
+ - ESC+SHIFT to get to GRUB menu then E
+ - edit line sttarting with linux ..., after rm add systemd.unit=multi-user.target |-> to boot terminal and F10
+ - mhwd -li |-> to see shitty drivers
+ - sudo modprobe nouveau |-> change to free drivers
+ - startx |-> run gui
+ - remove drivers |-> settings -> hardware configuration
