@@ -1,2 +1,7 @@
-# conky_setup
-![alt text](https://raw.githubusercontent.com/sleter/conky_setup/master/devinfo.png)
+# Linux setup scripts repo
+* Manjaro
+* Ubuntu
+* Kubuntu
+
+# Actual setup
+![alt text]()
