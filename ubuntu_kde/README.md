@@ -58,10 +58,10 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
 Restart Konsole and choose what u like with configuration wizard.
 ## Setting up Konsole
 ##### Helpful shortcuts
-*Ctrl+Shift+T* - New Tab
-*Ctrl+Shift+W* - Close Tab
-*Ctrl+Shift+N* - New Konsole window
-*Shift+Right/Left* - Change Tab
+ - *Ctrl+Shift+T* - New Tab
+ - *Ctrl+Shift+W* - Close Tab
+ - *Ctrl+Shift+N* - New Konsole window
+ - *Shift+Right/Left* - Change Tab
 ##### Apperance
 
  - Color scheme & font: *Green on black*
@@ -138,12 +138,12 @@ cat ~/.ssh/id_rsa.pub | xclip -selection clipboard
 ```
 ## Helpful shortcuts
 ### Managing windows
-*Meta+#arrow#* - Move window to direction
-*Meta+PgUp* - Maximize window
-*Meta+PgDown* - Minimize window
+ - *Meta+#arrow#* - Move window to direction
+ - *Meta+PgUp* - Maximize window
+ - *Meta+PgDown* - Minimize window
 ### Changing virtual desktops
 My own settings (GLobal Shortcuts - Switch One Desktop Up/Down):
-*Ctr+Alt+DownArrow* - Next desktop
-*Ctr+Alt+UpArrow* - Previous desktop
+ - *Ctr+Alt+DownArrow* - Next desktop
+ - *Ctr+Alt+UpArrow* - Previous desktop
 
 
