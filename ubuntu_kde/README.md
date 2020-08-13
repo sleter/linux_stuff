@@ -114,6 +114,8 @@ Best theme: 1984 (https://marketplace.visualstudio.com/items?itemName=juanmnl.vs
 `sudo snap install vlc`
 ##### Caprine (Facebook Messenger)
 `sudo snap install caprine`
+##### Curl
+`sudo apt install curl`
 
 ### Bugs and fixes
 Snap commends won't work with ZSH, fix:
