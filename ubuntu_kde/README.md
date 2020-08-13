@@ -76,8 +76,13 @@ General:
 ## Helpful aliases
 Add to *~/.zshrc* file.
 ```console
-# alias sudo=pls #
-alias ll=ls -la
+alias ll='ls -la'
+alias ls='ls --color=auto'
+alias pls='sudo'
+alias ..='cd ..'
+alias grep='grep --color=auto'
+alias h='history'
+alias untar='tar -zxvf'
 ```
 ## System theme
 
