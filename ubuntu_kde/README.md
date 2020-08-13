@@ -153,4 +153,13 @@ My own settings (GLobal Shortcuts - Switch One Desktop Up/Down):
  - *Ctr+Alt+DownArrow* - Next desktop
  - *Ctr+Alt+UpArrow* - Previous desktop
 
-
+## Setting up Java with Sbt (SDKMAN)
+```console
+curl -s "https://get.sdkman.io" | zsh
+source "/home/sleter/.sdkman/bin/sdkman-init.sh"
+sdk install java 8.0.265.hs-adpt
+sdk list java | grep installed # check installed
+sdk install scala 2.11.12
+sdk install sbt 1.3.13
+```
+More info: bartmiki.github.io/blog/2020/08/06/sdkman and https://sdkman.io/
