@@ -1,0 +1,8 @@
+1. Install spotifyd:
+ * https://github.com/Spotifyd/spotifyd
+ * Create config file: ~/.config/spotifyd/spotifyd.conf with only user and password
+ * Copy contrib/spotifyd.service to /etc/systemd/user/
+ * Start service: systemctl --user start spotifyd.service
+2. Install spotify-tui:
+ * https://github.com/Rigellute/spotify-tui
+ * Follow README to create spotify app and connect to it
