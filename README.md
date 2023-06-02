@@ -4,4 +4,4 @@
 * Kubuntu
 
 # Actual setup
-![alt text](https://github.com/sleter/linux_stuff/blob/master/ubuntu_kde/neofetch.png)
+![alt text](https://github.com/sleter/linux_stuff/blob/master/manjaro_i3/neofetch.jpg)
